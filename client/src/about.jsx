@@ -1,3 +1,10 @@
+/* 
+ * File name: about.jsx
+ * Student's Name: Ian Haworth
+ * StudentID: 301487971
+ * Date: September 27th, 2024
+ */
+
 import React from 'react';
 
 export default function About() {

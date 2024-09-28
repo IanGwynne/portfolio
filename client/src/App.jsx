@@ -1,3 +1,10 @@
+/* 
+ * File name: App.jsx
+ * Student's Name: Ian Haworth
+ * StudentID: 301487971
+ * Date: September 27th, 2024
+ */
+
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 //import { ThemeProvider } from '@material-ui/styles';

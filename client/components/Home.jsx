@@ -1,3 +1,10 @@
+/* 
+ * File name: Home.jsx
+ * Student's Name: Ian Haworth
+ * StudentID: 301487971
+ * Date: September 27th, 2024
+ */
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 
